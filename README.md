@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/zutzVvG.png" alt="banner that says Ivanna Gomez - Engineer in the making">
 
-I'm currently a senior at the Georgia Institute of Technology and an aspiring software engineer who is passionate about creating technology to elevate people and build communities. Some programming languages I enjoy working with include Python, JavaScript and Java. I have previously worked with Uber, Meta and Major League Hacking.
+I'm currently a senior at the Georgia Institute of Technology and an aspiring software engineer who is passionate about creating technology to elevate people and build communities. Some programming languages I enjoy working with include Python, JavaScript and Java. I have previously interned and worked with Uber, Meta and Major League Hacking.
 
 ## 🌎 Find me around the web: <a><img align="left" width="150" height="150" src="https://i.imgur.com/QuOzyIT.png"></a>
 - 📫 You can reach me at ivannagomezq@gmail.com
