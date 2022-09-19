@@ -6,7 +6,7 @@ I'm currently a senior at the Georgia Institute of Technology and an aspiring so
 
 ## 🌎 Find me around the web: <a><img align="left" width="150" height="150" src="https://i.imgur.com/QuOzyIT.png"></a>
 - 📫 You can reach me at ivannagomezq@gmail.com
-- 🌐 Learn more about me on <a href="https://ivannas-portfolio.ivannagmez.repl.co/"> my website</a>
+- 🌐 Learn more about me on <a href="https://www.ivannagomez.co/> my website</a>
 - 💼 View updates on <a href="https://www.linkedin.com/in/ivanna-gomez-q/">LinkedIn</a>
  
 
