@@ -1,6 +1,6 @@
 # Hi, I'm Ivanna 👋🏽 👩🏽‍💻
 
-<img src="https://i.imgur.com/zutzVvG.png" alt="banner that says Ivanna Gomez - Engineer in the making">
+<!--<img src="https://i.imgur.com/zutzVvG.png" alt="banner that says Ivanna Gomez - Engineer in the making">-->
 
 I'm currently a senior at the Georgia Institute of Technology and an aspiring software engineer who is passionate about creating technology to elevate people and build communities. Some programming languages I enjoy working with include Python, JavaScript and Java. I have previously worked with Uber, Meta and Major League Hacking.
 
